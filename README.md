@@ -1,8 +1,6 @@
-# Basic Test Constants
+# Basic TestInverses
 
-This tutorial addresses ways of initialization of pointer with constant value,
-initialization of constant pointer,and initialization of constant pointer with constant value.
-It also relates to the concept of null pointer.
+This tutorial ilustrates the reversibility of pointer.
 
 # Setup
 
